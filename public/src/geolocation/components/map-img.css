@@ -1,0 +1,15 @@
+.default {
+  width: 400px;
+  height: 450px;
+  background-color: #cccccc;
+}
+
+.img-container {
+  width: 400px;
+  height: 450px;
+}
+
+img {
+  width: auto;
+  height: auto;
+}
